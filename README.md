@@ -1,3 +1,3 @@
 # Practice
-add 1
-add 5
+add 10
+add 1000
